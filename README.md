@@ -22,7 +22,7 @@ layout:
 
 <p align="center">Benvenuti nella documentazione ufficiale per la pratica dello ScreenShare. Questo spazio rappresenta il cuore di un approccio moderno e professionale: un punto di riferimento unico, trasparente e autorevole per staff, player e chiunque sia interessato a comprendere come operare in modo corretto ed efficace.</p>
 
-<h3 align="center">Mappa della Documentazione</h3>
+<h3 align="center">Mappa della Documentazione 🗺️</h3>
 
 <p align="center">Naviga attraverso le guide per comprendere ogni aspetto del protocollo proposto. Ogni sezione è pensata per essere una risorsa chiara e completa.</p>
 
@@ -30,15 +30,21 @@ layout:
 
 ***
 
-<h3 align="center">Per Chi è Questa Guida?</h3>
+<h3 align="center">Struttura e Ruoli di un Team di ScreenShare</h3>
 
-<p align="center">Questa documentazione è stata creata per essere una risorsa universale, rivolta a diverse figure all'interno della community gaming.</p>
+<p align="center">Per garantire professionalità ed efficienza, un team di ScreenShare è spesso organizzato con ruoli ben definiti. Sebbene ogni server possa avere la propria struttura, questo è un modello comune e consigliato.</p>
 
-<p align="center"><strong>Per i Server Owner e Manager:</strong> Offre un framework solido e testato per costruire o riformare il proprio team di ScreenShare, stabilendo procedure professionali e trasparenti che aumentano la fiducia della community.</p>
+<p align="center"><strong>👑 SS Manager</strong></p>
 
-<p align="center"><strong>Per gli Staffer (ScreenSharer):</strong> Fornisce un punto di riferimento chiaro per operare con sicurezza, coerenza e integrità. Seguire questi protocolli protegge lo staffer da accuse e garantisce la validità del suo operato.</p>
+<p align="center">Responsabile ultimo del team. Definisce le procedure, supervisiona le operazioni e gestisce i casi più complessi. È il garante della coerenza e della professionalità del team.</p>
 
-<p align="center"><strong>Per i Player:</strong> Garantisce trasparenza. Ogni giocatore può consultare le procedure, comprendere quali comportamenti sono sanzionati e avere la certezza che ogni controllo venga condotto in modo equo e non arbitrario.</p>
+<p align="center"><strong>🎓 SS Mentor</strong></p>
+
+<p align="center">Membri esperti scelti per la loro competenza. Affiancano gli SS Verified, revisionano i controlli e forniscono feedback, agendo come pilastri per la crescita del team.</p>
+
+<p align="center"><strong>✅ SS Verified</strong></p>
+
+<p align="center">La spina dorsale operativa. Staffer certificati per condurre gli screenshare in autonomia, rispettando rigorosamente i protocolli e garantendo un ambiente di gioco equo.</p>
 
 ***
 
@@ -46,11 +52,11 @@ layout:
 
 <p align="center">Questa documentazione è resa accessibile a tutti per un motivo fondamentale: la <strong>trasparenza</strong>. La fiducia di una community non si guadagna operando nell'ombra, ma dimostrando apertamente le metodologie e i principi che guidano le decisioni.</p>
 
-<p align="center">Rendendo pubbliche le procedure, si garantisce che ogni controllo sia equo, standardizzato e basato su regole chiare. </p>
+<p align="center">Rendendo pubbliche le procedure, si garantisce che ogni controllo sia equo, standardizzato e basato su regole chiare. Questo non è un manuale step-by-step su come trovare cheat; le guide di formazione tecnica avanzata sono gestite internamente dai singoli team. Ciò che viene reso pubblico è il <strong>quadro etico e procedurale</strong>: come ci si comporta, cosa si considera un'infrazione e come vengono gestite le prove.</p>
 
 ***
 
-<h3 align="center">Il Ruolo dello ScreenSharer: Efficienza vs. Perfezione</h3>
+<h3 align="center">Il Ruolo dello ScreenSharer: Efficienza vs. Perfezione 🎯</h3>
 
 <p align="center">È fondamentale che ogni membro di un team, e ogni player, comprenda la vera missione di uno ScreenSharer.</p>
 
@@ -62,8 +68,8 @@ layout:
 
 ***
 
-<h3 align="center">Un Progetto per la Community</h3>
+<h3 align="center">Un Progetto per la Community 🌍</h3>
 
-<p align="center">Questa guida è una risorsa gratuita e open-source, creata con l'obiettivo di elevare gli standard degli ScreenShare in tutta la community. Sentiti libero di adottarla, adattarla e contribuire al suo miglioramento, per un ambiente di gioco più giusto e trasparente per tutti.</p>
+<p align="center">Questa guida è una risorsa gratuita, creata con l'obiettivo di elevare gli standard degli ScreenShare in tutta la community. Sentiti libero di adottarla, per un ambiente di gioco più giusto e trasparente per tutti.</p>
 
 <p align="right"><br><sup><em>Guida realizzata da ItzIceHere</em></sup></p>

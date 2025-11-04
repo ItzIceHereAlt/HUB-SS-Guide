@@ -1,7 +1,11 @@
 ---
 description: Welcome to your team’s developer platform
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
   title:
     visible: false
   description:

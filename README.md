@@ -2,7 +2,7 @@
 description: Welcome to your team’s developer platform
 cover: >-
   .gitbook/assets/HUB _ Guida agli
-  ScreenShare_upscayl_1x_digital-art-4x_upscayl_2x_digital-art-4x.png
+  ScreenShare_upscayl_1x_digital-art-4x_upscayl_4x_digital-art-4x.png
 coverY: 0
 layout:
   width: wide

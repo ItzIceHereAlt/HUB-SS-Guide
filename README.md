@@ -59,7 +59,7 @@ layout:
 
 <p align="center">Questa documentazione è resa accessibile a tutti per un motivo fondamentale: la <strong>trasparenza</strong>. La fiducia di una community non si guadagna operando nell'ombra, ma dimostrando apertamente le metodologie e i principi che guidano le decisioni.</p>
 
-<p align="center">Rendendo pubbliche le procedure, si garantisce che ogni controllo sia equo, standardizzato e basato su regole chiare. Questo non è un manuale step-by-step su come trovare cheat; le guide di formazione tecnica avanzata sono gestite internamente dai singoli team. Ciò che viene reso pubblico è il <strong>quadro etico e procedurale</strong>: come ci si comporta, cosa si considera un'infrazione e come vengono gestite le prove.</p>
+<p align="center">Rendendo pubbliche le procedure, si garantisce che ogni controllo sia equo, standardizzato e basato su regole chiare. </p>
 
 ***
 

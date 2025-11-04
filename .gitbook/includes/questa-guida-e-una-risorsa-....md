@@ -3,7 +3,7 @@ title: Questa guida è una risorsa ...
 ---
 
 {% hint style="info" %}
-&#x20;                                                **Questa guida è una risorsa gratuita per la community.**
+
 
 <p align="center">Se sei un Owner, un Manager o un SS Manager e desideri implementare questa struttura di documentazione per il tuo server, sei il benvenuto a farlo.</p>
 

@@ -1,6 +1,6 @@
 ---
 description: Welcome to your team’s developer platform
-cover: .gitbook/assets/Banner.png
+cover: .gitbook/assets/HUB _ Guida agli ScreenShare_upscayl_1x_digital-art-4x.png
 coverY: 0
 layout:
   width: wide

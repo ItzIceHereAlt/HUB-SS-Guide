@@ -92,5 +92,3 @@ L'unica cortesia che chiedo in cambio, è di mantenere i crediti in un footer ne
 
 L'obiettivo è elevare gli standard per tutti.
 {% endhint %}
-
-<p align="right"><br><sup><em>Guida realizzata da ItzIceHere</em></sup></p>

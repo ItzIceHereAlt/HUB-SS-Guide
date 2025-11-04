@@ -83,14 +83,4 @@ layout:
 
 <h3 align="center">Vuoi Adottare Questa Guida per il Tuo Server? 🚀</h3>
 
-{% hint style="info" %}
-**Questa guida è una risorsa gratuita per la community.**
-
-Se sei un Owner, un Manager o un SS Manager e desideri implementare questa struttura di documentazione per il tuo server, sei il benvenuto a farlo.
-
-Per semplificare il processo, puoi contattarmi in privato su Discord (**ItzIceHere**) per richiedere una copia della guida. Ti fornirò un file pronto per essere importato nel tuo spazio GitBook, che potrai poi personalizzare e adattare secondo le esigenze del tuo team.
-
-L'unica cortesia che chiedo in cambio, è di mantenere i crediti in un footer nella pagina iniziale della vostra documentazione.
-
-L'obiettivo è elevare gli standard per tutti.
-{% endhint %}
+{% include ".gitbook/includes/questa-guida-e-una-risorsa-....md" %}

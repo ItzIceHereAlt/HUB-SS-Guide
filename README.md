@@ -81,6 +81,6 @@ layout:
 
 <p align="center">Per semplificare il processo, puoi contattarmi in privato su Discord (<strong>ItzIceHere</strong>) per richiedere una copia della guida. Ti fornirò un file pronto per essere importato nel tuo spazio GitBook, che potrai poi personalizzare e adattare secondo le esigenze del tuo team.</p>
 
-<p align="center">L'unica cortesia che chiedo in cambio, è di mantenere i crediti in un footer nella pagina iniziale della vostra documentazione.</p>
+<p align="center">L'unica cortesia che chiedo in cambio, è di mantenere i crediti in un footer, o aggiungerli nella pagina iniziale della vostra documentazione.</p>
 
 <p align="center">L'obiettivo è elevare gli standard per tutti.</p>
